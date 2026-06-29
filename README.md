@@ -1,8 +1,4 @@
-# 🪒 節奏幫爸爸拔鬍子
-
-<p align="center">
-  <img src="assets/thumbnail.png" alt="節奏幫爸爸拔鬍子遊戲縮圖" width="860" />
-</p>
+# 節奏幫爸爸拔鬍子
 
 <p align="center">
   <b>看爸爸長鬍子，聽小鼓出題，照節奏把鬍子拔掉！</b><br />
