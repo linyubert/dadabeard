@@ -67,11 +67,6 @@
   <img src="assets/home_background.png" alt="首頁背景圖" width="860" />
 </p>
 
-### 社群縮圖
-
-<p align="center">
-  <img src="assets/thumbnail.png" alt="社群分享縮圖" width="680" />
-</p>
 
 ---
 
